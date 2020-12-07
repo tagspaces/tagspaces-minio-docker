@@ -1,0 +1,1 @@
+# tagspaces-minio-docker
